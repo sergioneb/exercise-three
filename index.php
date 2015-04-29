@@ -14,5 +14,6 @@ and open the template in the editor.
         // put your code here
         ?>
         <h1>Canvis segona</h1>
+        <p>Modificacions primera</p>
     </body>
 </html>
